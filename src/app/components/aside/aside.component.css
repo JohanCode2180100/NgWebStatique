@@ -1,0 +1,13 @@
+.aside-container {
+  text-align: justify;
+}
+.aside-container h2 {
+  text-align: center;
+  color: white;
+  font-size: 28px;
+  font-weight: bold;
+}
+.aside-container p {
+  color: azure;
+  font-size: 20px;
+}/*# sourceMappingURL=aside.component.css.map */

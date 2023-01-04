@@ -1,0 +1,9 @@
+header {
+  height: 60px;
+  background-color: rgb(38, 38, 153);
+  color: white;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=header.component.css.map */
